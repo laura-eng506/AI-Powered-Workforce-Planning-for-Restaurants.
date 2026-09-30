@@ -5,6 +5,8 @@ Final project for the Building AI course
 ## Summary
 
 An AI-powered workforce planning system that predicts restaurant workloads and helps managers prevent understaffing. By analyzing historical data, it recommends staffing levels to support employee wellbeing and maintain service quality.
+![AI-Powered Workforce Planning Process](ChatGPT%20Image%20Sep%2030%2C%202026%2C%2011_06_04%20AM.png)
+
 ## Background
 
 Understaffing is a common problem in the restaurant industry. Customer demand can change significantly depending on the day, time, season, weather, events and delivery order volumes. When staffing decisions do not match the actual workload, employees may have to manage excessive amounts of work with too few people.
